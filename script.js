@@ -1,5 +1,5 @@
 const avanca = document.querySelectorAll('.btn-proximo');
-
+//Matheus Rogério dos Santos Luciano 2C 08/10/2024
 avanca.forEach(button => {
     button.addEventListener('click', function(){
         const atual = document.querySelector('.ativo');
